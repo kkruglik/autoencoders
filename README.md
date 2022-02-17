@@ -7,7 +7,7 @@
 
 ![VAE output](https://github.com/kkruglik/autoencoders/blob/main/imgs/results.png)
 
-Результаты того, как будет выглядеть *выпуклая комбинация* двух латентных векторов VAE: $\alpha l_1 + (1 - \alpha)l_2$, где $l_1, l_2$ – латентные векторы, $\alpha \in [0, 1]$
+Результаты того, как будет выглядеть *выпуклая комбинация* двух латентных векторов VAE: \alpha l_1 + (1 - \alpha)l_2$, где $l_1, l_2$ – латентные векторы, $\alpha \in [0, 1]
 
 ![VAE output](https://github.com/kkruglik/autoencoders/blob/main/imgs/results_2.png)
 
